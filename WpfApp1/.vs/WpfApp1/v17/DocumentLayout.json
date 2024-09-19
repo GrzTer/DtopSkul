@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DtopSkul\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1938C0-FD61-4262-B211-B654957C4681}|WpfApp1.csproj|d:\\dtopskul\\wpfapp1\\kalkulator2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E1938C0-FD61-4262-B211-B654957C4681}|WpfApp1.csproj|solutionrelative:kalkulator2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1938C0-FD61-4262-B211-B654957C4681}|WpfApp1.csproj|d:\\dtopskul\\wpfapp1\\kalkulator2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1938C0-FD61-4262-B211-B654957C4681}|WpfApp1.csproj|solutionrelative:kalkulator2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kalkulator2.xaml.cs",
+              "DocumentMoniker": "D:\\DtopSkul\\WpfApp1\\Kalkulator2.xaml.cs",
+              "RelativeDocumentMoniker": "Kalkulator2.xaml.cs",
+              "ToolTip": "D:\\DtopSkul\\WpfApp1\\Kalkulator2.xaml.cs",
+              "RelativeToolTip": "Kalkulator2.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwF8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:17:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kalkulator2.xaml",
+              "DocumentMoniker": "D:\\DtopSkul\\WpfApp1\\Kalkulator2.xaml",
+              "RelativeDocumentMoniker": "Kalkulator2.xaml",
+              "ToolTip": "D:\\DtopSkul\\WpfApp1\\Kalkulator2.xaml",
+              "RelativeToolTip": "Kalkulator2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T10:17:29.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
