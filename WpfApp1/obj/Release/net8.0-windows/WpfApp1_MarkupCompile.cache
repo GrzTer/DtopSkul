@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\DtopSkul\WpfApp1\obj\Debug\net8.0-windows\
+D:\DtopSkul\WpfApp1\obj\Release\net8.0-windows\
 WpfApp1
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 D:\DtopSkul\WpfApp1\App.xaml
 1-440014336
 
-4-700855177
+41324260499
 1981124507420
 Kalkulator2.xaml;
 
