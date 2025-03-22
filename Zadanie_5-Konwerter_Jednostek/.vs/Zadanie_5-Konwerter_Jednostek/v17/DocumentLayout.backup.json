@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DtopSkul\\Zadanie_5-Konwerter_Jednostek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711D8B2F-A188-4909-B925-B0CFA205AA83}|Zadanie_5-Konwerter_Jednostek.csproj|d:\\dtopskul\\zadanie_5-konwerter_jednostek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D8B2F-A188-4909-B925-B0CFA205AA83}|Zadanie_5-Konwerter_Jednostek.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D8B2F-A188-4909-B925-B0CFA205AA83}|Zadanie_5-Konwerter_Jednostek.csproj|d:\\dtopskul\\zadanie_5-konwerter_jednostek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{711D8B2F-A188-4909-B925-B0CFA205AA83}|Zadanie_5-Konwerter_Jednostek.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DtopSkul\\Zadanie_5-Konwerter_Jednostek\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\DtopSkul\\Zadanie_5-Konwerter_Jednostek\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-22T19:58:06.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DtopSkul\\Zadanie_5-Konwerter_Jednostek\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\DtopSkul\\Zadanie_5-Konwerter_Jednostek\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:58:06.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
