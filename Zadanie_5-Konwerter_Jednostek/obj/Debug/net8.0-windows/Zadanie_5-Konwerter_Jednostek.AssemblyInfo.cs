@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zadanie_5-Konwerter_Jednostek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a94877952c4471c8df2447325ece0d39fa0e6c26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f13510d1de380818f91160067d4f9db06a5e6166")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zadanie_5-Konwerter_Jednostek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zadanie_5-Konwerter_Jednostek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
