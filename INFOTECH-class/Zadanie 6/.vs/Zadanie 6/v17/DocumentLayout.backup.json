@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|d:\\dtopskul\\infotech-class\\zadanie-6-aplikacja-formularz-grzter\\zadanie 6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|d:\\dtopskul\\infotech-class\\zadanie-6-aplikacja-formularz-grzter\\zadanie 6\\confirmwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|solutionrelative:confirmwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|d:\\dtopskul\\infotech-class\\zadanie-6-aplikacja-formularz-grzter\\zadanie 6\\confirmwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|solutionrelative:confirmwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|d:\\dtopskul\\infotech-class\\zadanie-6-aplikacja-formularz-grzter\\zadanie 6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D9DFD86-0388-498B-BDB8-E8E3C48229D5}|Zadanie 6.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\ConfirmWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ConfirmWindow.xaml.cs",
+              "ToolTip": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\ConfirmWindow.xaml.cs",
+              "RelativeToolTip": "ConfirmWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:22:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmWindow.xaml",
+              "DocumentMoniker": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\ConfirmWindow.xaml",
+              "RelativeDocumentMoniker": "ConfirmWindow.xaml",
+              "ToolTip": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\ConfirmWindow.xaml",
+              "RelativeToolTip": "ConfirmWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-23T18:22:25.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-23T18:05:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\DtopSkul\\INFOTECH-class\\zadanie-6-aplikacja-formularz-GrzTer\\Zadanie 6\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:05:29.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\App.g.cs
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6_MarkupCompile.cache
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6_MarkupCompile.lref
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\bin\Debug\net8.0-windows\Zadanie 6.exe
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\bin\Debug\net8.0-windows\Zadanie 6.deps.json
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\bin\Debug\net8.0-windows\Zadanie 6.runtimeconfig.json
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\bin\Debug\net8.0-windows\Zadanie 6.dll
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\bin\Debug\net8.0-windows\Zadanie 6.pdb
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.g.resources
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.AssemblyInfoInputs.cache
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.AssemblyInfo.cs
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.csproj.CoreCompileInputs.cache
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.sourcelink.json
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.dll
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\refint\Zadanie 6.dll
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.pdb
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\Zadanie 6.genruntimeconfig.cache
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\ref\Zadanie 6.dll
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\ConfirmWindow.baml
+D:\DtopSkul\INFOTECH-class\zadanie-6-aplikacja-formularz-GrzTer\Zadanie 6\obj\Debug\net8.0-windows\ConfirmWindow.g.cs

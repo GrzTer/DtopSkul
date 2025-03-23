@@ -1,0 +1,23 @@
+﻿<Window x:Class="Zadanie_6.ConfirmWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Potwierdzenie" Height="300" Width="500">
+    <Grid>
+        <Label Content="Imie:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <Label Content="Nazwisko:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0"/>
+        <Label Content="Rok Urodzenia:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,70,0,0"/>
+        <Label Content="Miesiąc Urodzenia:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,100,0,0"/>
+        <Label Content="Dzień Urodzenia:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,130,0,0"/>
+        <Label Content="Email:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,160,0,0"/>
+
+        <Label x:Name="NameLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,10,0,0"/>
+        <Label x:Name="SurnameLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,40,0,0"/>
+        <Label x:Name="YearLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,70,0,0"/>
+        <Label x:Name="MonthLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,100,0,0"/>
+        <Label x:Name="DayLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,130,0,0"/>
+        <Label x:Name="EmailLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,160,0,0"/>
+
+        <Button Content="Powrót" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="100" Height="30" Margin="10,0,0,10" Click="BackButton_Click"/>
+        <Button Content="Potwierdź" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="100" Height="30" Margin="120,0,0,10" Click="ConfirmButton_Click"/>
+    </Grid>
+</Window>
