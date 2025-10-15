@@ -1,0 +1,26 @@
+﻿<Window x:Class="Zadanie_Egzaminacyjne1___Virmox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_Egzaminacyjne1___Virmox"
+        mc:Ignorable="d"
+        Title="Moje taxiweb" Height="450" Width="800">
+    <Grid>
+        <Image Margin="139,-1,-140,1" Source="/map.jpg" Stretch="Fill"/>
+        <Grid x:Name="GridDane" Visibility="Hidden">
+        <Image Margin="10,10,726,360" Source="/morda.png" Stretch="Fill"/>
+        <Label Content="Mirek" HorizontalAlignment="Left" Margin="79,10,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label Content="2.4 *" HorizontalAlignment="Left" Margin="82,48,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kierowca dostepny /\" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top" Width="129"/>
+        <Image Margin="-2,104,664,224" Source="/R.png" Stretch="Fill"/>
+        <Label Content="Dane auta" HorizontalAlignment="Left" Margin="28,222,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sitroen ksara pikasso" HorizontalAlignment="Left" Margin="12,253,0,0" VerticalAlignment="Top"/>
+        <Label Content="Bezwypadkowy" HorizontalAlignment="Left" Margin="22,279,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Button Content="Zamof ukraenca" HorizontalAlignment="Left" Margin="15,329,0,0" Background="#CD853F" VerticalAlignment="Top" Height="95" Width="101" Click="Button_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="340" Margin="0,99,0,0" Fill="#FF0253" Stroke="Black" VerticalAlignment="Top" Width="139" Panel.ZIndex="-1"/>
+        <Rectangle HorizontalAlignment="Left" Height="100" Margin="0,-1,0,0" Fill="#F02F03" Stroke="Black" VerticalAlignment="Top" Panel.ZIndex="-1" Width="139"/>
+
+    </Grid>
+</Window>

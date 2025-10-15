@@ -1,0 +1,17 @@
+﻿<Window x:Class="Zadanie_Egzaminacyjne1___Virmox.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_Egzaminacyjne1___Virmox"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="306">
+    <Grid>
+        <Label Content="Szukanie Kierowcy.." HorizontalAlignment="Center" Margin="0,46,0,0" VerticalAlignment="Top"/>
+        <Ellipse HorizontalAlignment="Center" Height="198" Margin="0,95,0,0" Stroke="Black" VerticalAlignment="Top" Width="198"/>
+        <Button Content="pobierz tiket" HorizontalAlignment="Center" Margin="0,310,0,0" VerticalAlignment="Top" Height="75" Width="198" Click="Button_Click"/>
+        <Label Content="-->" HorizontalAlignment="Left" Height="26" Margin="139,77,0,0" VerticalAlignment="Top" Width="49"/>
+        <Label Content="Do okazania kierowcy przy wsiadaniu" HorizontalAlignment="Center" Height="34" Margin="0,390,0,0" VerticalAlignment="Top" Width="210"/>
+
+    </Grid>
+</Window>
