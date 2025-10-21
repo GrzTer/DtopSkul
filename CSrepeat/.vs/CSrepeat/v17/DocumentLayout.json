@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|d:\\dtopskul\\csrepeat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|d:\\dtopskul\\csrepeat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|d:\\dtopskul\\csrepeat\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|d:\\dtopskul\\csrepeat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|d:\\dtopskul\\csrepeat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E2EF3C-452A-4883-97DE-154757E6C65A}|CSrepeat.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\DtopSkul\\CSrepeat\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -67,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\DtopSkul\\CSrepeat\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "D:\\DtopSkul\\CSrepeat\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAADgvyoAAACEAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvyYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T08:13:47.429Z",
               "EditorCaption": ""

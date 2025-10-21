@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -36,6 +37,7 @@ namespace CSrepeat
             //}
 
             sredniaLabel.Content = suma / lista_ocen.Count;
+            MessageBox.Show(sredniaLabel.Content.ToString(), "Alert", MessageBoxButton.YesNoCancel, MessageBoxImage.Exclamation);
         }
 
         private void Przeslij_Click(object sender, RoutedEventArgs e)
