@@ -1,0 +1,37 @@
+﻿<Window x:Class="CSrepeat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSrepeat"
+        mc:Ignorable="d"
+        Title="Info o uczniu" Height="450" Width="800" ResizeMode="NoResize" SizeToContent="WidthAndHeight">
+    <Grid Background="Bisque">
+        <GroupBox Header="Dane Ucznia" Margin="34,47,499,114">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Imie" HorizontalAlignment="Left" Margin="14,27,0,0" VerticalAlignment="Top"/>
+                <Label Content="Nazwisko" HorizontalAlignment="Left" Margin="14,63,0,0" VerticalAlignment="Top"/>
+                <Label Content="Klasa" HorizontalAlignment="Left" Margin="14,99,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="klasaBox" HorizontalAlignment="Left" Margin="125,103,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0">
+                    <ComboBoxItem Content="5aT"/>
+                    <ComboBoxItem Content="5bT"/>
+                </ComboBox>
+                <TextBox x:Name="imieBox" HorizontalAlignment="Left" Margin="125,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="nazwiskoBox" HorizontalAlignment="Left" Margin="125,71,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Średnia ucznia" Margin="490,47,43,114">
+            <Grid>
+                <Label Content="Ocena" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="sredniaBox" HorizontalAlignment="Left" Margin="111,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" />
+                <Button x:Name="Dodaj" Content="Dodaj" HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top" Width="221" Click="Button_Dodaj"/>
+                <Label x:Name="sredniaLabel" Content="0" HorizontalAlignment="Left" Margin="32,209,0,0" VerticalAlignment="Top" Width="213"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="Prześlij" Content="Prześlij" HorizontalAlignment="Center" Margin="0,356,0,0" VerticalAlignment="Top" Height="24" Width="120" Click="Przeslij_Click"/>
+
+    </Grid>
+</Window>

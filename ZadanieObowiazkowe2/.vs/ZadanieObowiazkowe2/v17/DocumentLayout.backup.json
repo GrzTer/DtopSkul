@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\DtopSkul\\ZadanieObowiazkowe2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|d:\\dtopskul\\zadanieobowiazkowe2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|d:\\dtopskul\\zadanieobowiazkowe2\\addcitywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|solutionrelative:addcitywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|d:\\dtopskul\\zadanieobowiazkowe2\\addcitywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|solutionrelative:addcitywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|d:\\dtopskul\\zadanieobowiazkowe2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{784E6E45-B65A-4DDC-A92C-7C43B7BE96D8}|ZadanieObowiazkowe2.csproj|d:\\dtopskul\\zadanieobowiazkowe2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -47,12 +47,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AddCityWindow.xaml.cs",
               "DocumentMoniker": "D:\\DtopSkul\\ZadanieObowiazkowe2\\AddCityWindow.xaml.cs",
               "RelativeDocumentMoniker": "AddCityWindow.xaml.cs",
-              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\AddCityWindow.xaml.cs*",
-              "RelativeToolTip": "AddCityWindow.xaml.cs*",
+              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\AddCityWindow.xaml.cs",
+              "RelativeToolTip": "AddCityWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T09:47:59.025Z",
@@ -60,12 +60,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AddCityWindow.xaml",
               "DocumentMoniker": "D:\\DtopSkul\\ZadanieObowiazkowe2\\AddCityWindow.xaml",
               "RelativeDocumentMoniker": "AddCityWindow.xaml",
-              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\AddCityWindow.xaml*",
-              "RelativeToolTip": "AddCityWindow.xaml*",
+              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\AddCityWindow.xaml",
+              "RelativeToolTip": "AddCityWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-07T09:47:29.34Z",
               "EditorCaption": ""
@@ -76,21 +76,21 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\DtopSkul\\ZadanieObowiazkowe2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\MainWindow.xaml*",
-              "RelativeToolTip": "MainWindow.xaml*",
+              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-07T08:32:38.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\DtopSkul\\ZadanieObowiazkowe2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "MainWindow.xaml.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAgwGEAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\DtopSkul\\ZadanieObowiazkowe2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T08:42:33.633Z",
               "EditorCaption": ""
