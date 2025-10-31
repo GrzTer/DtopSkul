@@ -1,0 +1,5 @@
+D:\DtopSkul\Zadanie egzyminacyjne 3 - Bartomiej\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DtopSkul\Zadanie egzyminacyjne 3 - Bartomiej\obj\Debug\net8.0-windows\PodsumowanieWindo.g.cs
+D:\DtopSkul\Zadanie egzyminacyjne 3 - Bartomiej\obj\Debug\net8.0-windows\App.g.cs
+D:\DtopSkul\Zadanie egzyminacyjne 3 - Bartomiej\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 3 - Bartomiej_MarkupCompile.cache
+D:\DtopSkul\Zadanie egzyminacyjne 3 - Bartomiej\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 3 - Bartomiej_MarkupCompile.lref

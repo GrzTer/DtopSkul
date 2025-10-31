@@ -11,9 +11,12 @@
             <TextBlock Text="3" FontWeight="Bold" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
             <TextBlock Text="9" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="15,0,0,0"/>
 
-            <Line x:Name="HourHand" X1="150" Y1="150" X2="150" Y2="100" Stroke="Black" StrokeThickness="6" RenderTransformOrigin="0.5,0.5"/>
-            <Line x:Name="MinuteHand" X1="150" Y1="150" X2="150" Y2="60" Stroke="Black" StrokeThickness="4" RenderTransformOrigin="0.5,0.5"/>
-            <Line x:Name="SecondHand" X1="150" Y1="150" X2="150" Y2="40" Stroke="Red" StrokeThickness="2" RenderTransformOrigin="0.5,0.5"/>
+            <Line x:Name="HourHand" X1="150" Y1="150" X2="150" Y2="100" 
+                  Stroke="Black" StrokeThickness="6" RenderTransformOrigin="0.5,0.5"/>
+            <Line x:Name="MinuteHand" X1="150" Y1="150" X2="150" Y2="60" 
+                  Stroke="Black" StrokeThickness="4" RenderTransformOrigin="0.5,0.5"/>
+            <Line x:Name="SecondHand" X1="150" Y1="150" X2="150" Y2="40" 
+                  Stroke="Red" StrokeThickness="2" RenderTransformOrigin="0.5,0.5"/>
             <Ellipse Fill="Black" Width="10" Height="10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         </Grid>
 

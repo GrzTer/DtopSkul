@@ -1,0 +1,17 @@
+﻿<Window x:Class="Zadanie_egzyminacyjne_2___Ja.AddCityWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_egzyminacyjne_2___Ja"
+        mc:Ignorable="d"
+        Title="AddCityWindow" Height="200" Width="300" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Nazwa miasta:" HorizontalAlignment="Left" Margin="39,20,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="NameTextBox" HorizontalAlignment="Center" Margin="0,51,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="222"/>
+        <Label Content="Offset UTC (np.-5 lub 9):" HorizontalAlignment="Left" Margin="39,74,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="OffsetTextBox" HorizontalAlignment="Center" Margin="0,104,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="222"/>
+        <Button Content="OK" HorizontalAlignment="Center" Margin="0,134,0,0" VerticalAlignment="Top" Width="222" Click="Ok_Click"/>
+
+    </Grid>
+</Window>

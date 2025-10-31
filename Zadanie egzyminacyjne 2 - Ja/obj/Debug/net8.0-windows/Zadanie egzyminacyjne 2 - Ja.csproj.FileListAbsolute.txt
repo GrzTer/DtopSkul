@@ -1,0 +1,23 @@
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\AddCityWindow.g.cs
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\App.g.cs
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja_MarkupCompile.cache
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja_MarkupCompile.lref
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\bin\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.exe
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\bin\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.deps.json
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\bin\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.runtimeconfig.json
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\bin\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.dll
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\bin\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.pdb
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\AddCityWindow.baml
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.g.resources
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.GeneratedMSBuildEditorConfig.editorconfig
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.AssemblyInfoInputs.cache
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.AssemblyInfo.cs
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.csproj.CoreCompileInputs.cache
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.sourcelink.json
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.dll
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\refint\Zadanie egzyminacyjne 2 - Ja.dll
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.pdb
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\Zadanie egzyminacyjne 2 - Ja.genruntimeconfig.cache
+D:\DtopSkul\Zadanie egzyminacyjne 2 - Ja\obj\Debug\net8.0-windows\ref\Zadanie egzyminacyjne 2 - Ja.dll

@@ -1,0 +1,33 @@
+﻿<Window x:Class="Zadanie_egzyminacyjne_3___Bartomiej.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_egzyminacyjne_3___Bartomiej"
+        mc:Ignorable="d"
+        Title="Kasa Biletowa" Height="629" Width="982" ResizeMode="NoResize" ShowInTaskbar="False" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Grid Margin="15">
+        <StackPanel Margin="0,79,0,39">
+            <Label Content="Wybierz wystawę" FontWeight="Bold" Height="49" Width="335"/>
+            <ComboBox x:Name="ExhibitionComboBox" SelectionChanged="ExhibitionComboBox_SelectionChanged" Width="344">
+                <ComboBoxItem Content="Impresjoniści" Tag="impresjonisci.jpg"/>
+                <ComboBoxItem Content="Sztuka Nowoczesna" Tag="nowoczesna.jpg"/>
+                <ComboBoxItem Content="Sztuka Starożytna" Tag="starozytna.jpg"/>
+            </ComboBox>
+            <Image x:Name="ExhibitionImage" Height="184" Margin="0.5" Source="/Images/logo.png" Stretch="Uniform" Width="341"/>
+            <GroupBox Header="Rodzaj Biletu" Margin="0,15,0,10" FontWeight="Bold">
+                <StackPanel Margin="10">
+                    <RadioButton x:Name="NormalnyRadio" Content="Normalny(20pln)" IsChecked="True"/>
+                    <RadioButton x:Name="UlgowyRadio" Content="Ulgowy(15pln)"/>
+                </StackPanel>
+            </GroupBox>
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,10">
+            <Label Content="Ilość: " VerticalAlignment="Center" FontWeight="Bold"/>
+                <TextBox x:Name="QuantityTextBox" Width="60" Margin="5,0,0,0" Text="1" VerticalAlignment="Center"/>
+            </StackPanel>
+            <Button x:Name="PreviewButton" Content="Podglad i cena" Background="#8FBC8F" Click="PreviewButton_Click"/>
+        </StackPanel>
+        <Rectangle HorizontalAlignment="Center" Height="79" Stroke="Black" VerticalAlignment="Top" Width="952"/>
+        <Label Content="Kasa biletowa - coscosZrobionaPrzezBartomiejacoscos" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

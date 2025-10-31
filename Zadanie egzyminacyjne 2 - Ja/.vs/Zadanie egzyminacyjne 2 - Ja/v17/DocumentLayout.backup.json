@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|d:\\dtopskul\\zadanie egzyminacyjne 2 - ja\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|solutionrelative:city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|d:\\dtopskul\\zadanie egzyminacyjne 2 - ja\\addcitywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|solutionrelative:addcitywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|d:\\dtopskul\\zadanie egzyminacyjne 2 - ja\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|d:\\dtopskul\\zadanie egzyminacyjne 2 - ja\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE3584A6-B2A1-41F2-A939-024931976300}|Zadanie egzyminacyjne 2 - Ja.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T07:30:53.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\City.cs",
+              "RelativeDocumentMoniker": "City.cs",
+              "ToolTip": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\City.cs",
+              "RelativeToolTip": "City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:25:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCityWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\AddCityWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddCityWindow.xaml.cs",
+              "ToolTip": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\AddCityWindow.xaml.cs",
+              "RelativeToolTip": "AddCityWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:14:17.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\DtopSkul\\Zadanie egzyminacyjne 2 - Ja\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:21:17.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
