@@ -1,0 +1,12 @@
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\WalidatorKolorow.baml
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\WalidatorKolorow.g.cs
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\App.g.cs
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\ZadanieEzyminacyjne 4 - San_MarkupCompile.cache
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\ZadanieEzyminacyjne 4 - San.g.resources
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\ZadanieEzyminacyjne 4 - San.GeneratedMSBuildEditorConfig.editorconfig
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\ZadanieEzyminacyjne 4 - San.AssemblyInfoInputs.cache
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\ZadanieEzyminacyjne 4 - San.AssemblyInfo.cs
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\ZadanieEzyminacyjne 4 - San.csproj.CoreCompileInputs.cache
+D:\DtopSkul\ZadanieEzyminacyjne 4 - San\obj\Debug\net8.0-windows\ZadanieEzyminacyjne 4 - San.sourcelink.json

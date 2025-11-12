@@ -1,0 +1,48 @@
+﻿<Window x:Class="ZadanieEzyminacyjne_4___San.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Generator Biletów" Height="400" Width="500">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Imię i Nazwisko:" Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,0,5"/>
+
+        <TextBox x:Name="txtImieNazwisko" Grid.Row="1" Grid.Column="0" Margin="0,0,5,10"/>
+
+        <Image x:Name="imgTypBiletu" Grid.Row="1" Grid.Column="1" Margin="5,0,0,10" Height="50" Stretch="Fill" HorizontalAlignment="Right"/>
+
+        <Label Content="Typ Biletu:" Grid.Row="2" Grid.Column="0" Margin="0,0,5,5"/>
+
+        <Label Content="Cena Końcowa:" Grid.Row="2" Grid.Column="1" Margin="5,0,0,5"/>
+
+        <ComboBox x:Name="cmbTypBiletu" Grid.Row="3" Grid.Column="0" Margin="0,0,5,10" SelectionChanged="cmbTypBiletu_SelectionChanged">
+            <ComboBoxItem Content="Standardowy" IsSelected="True"/>
+            <ComboBoxItem Content="VIP"/>
+        </ComboBox>
+
+        <Label x:Name="lblCena" Grid.Row="3" Grid.Column="1" Margin="5,0,0,10" Foreground="Green"/>
+
+        <CheckBox x:Name="chkLunch" Content="Lunch (+30 zł)" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,0,10" Checked="chkLunch_CheckedChanged" Unchecked="chkLunch_CheckedChanged"/>
+
+        <Label Content="KOD DOSTĘPU:" Grid.Row="5" Grid.Column="0" Margin="0,0,5,10"/>
+
+        <Label x:Name="lblKodDostepu" Content="BRAK" Grid.Row="5" Grid.Column="1" Margin="5,0,0,10" Foreground="Blue" FontSize="16" FontWeight="Bold"/>
+
+        <Button x:Name="btnGenerujBilet" Content="Generuj Bilet" Grid.Row="6" Grid.Column="0" Margin="0,0,5,10" Click="btnGenerujBilet_Click"/>
+
+        <Button x:Name="btnPrzejdzDoWalidacji" Content="Przejdź do Walidacji" Grid.Row="6" Grid.Column="1" Margin="5,0,0,10" Background="LightBlue" Click="btnPrzejdzDoWalidacji_Click"/>
+    </Grid>
+</Window>
